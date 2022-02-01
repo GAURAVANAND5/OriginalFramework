@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[anand317==>Contact is created successfull ==>pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-02-01T15:33:50 IST" name="Default suite" finished-at="2022-02-01T15:34:15 IST" duration-ms="24925">
+    <groups>
+      <group name="smoketest">
+        <method signature="CreateContactsTest.createContact()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" name="createContact" class="com.vtiger.comcast.contacttest.CreateContactsTest"/>
+      </group> <!-- smoketest -->
+    </groups>
+    <test started-at="2022-02-01T15:33:50 IST" name="Default test" finished-at="2022-02-01T15:34:15 IST" duration-ms="24925">
+      <class name="com.vtiger.comcast.contacttest.CreateContactsTest">
+        <test-method is-config="true" signature="ConfigBS()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:33:50 IST" name="ConfigBS" finished-at="2022-02-01T15:33:50 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBS -->
+        <test-method is-config="true" signature="ConfigBC()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:33:50 IST" name="ConfigBC" finished-at="2022-02-01T15:33:52 IST" duration-ms="2279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBC -->
+        <test-method is-config="true" signature="ConfigBM()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:33:52 IST" name="ConfigBM" finished-at="2022-02-01T15:33:59 IST" duration-ms="7041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBM -->
+        <test-method signature="createContact()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:33:59 IST" name="createContact" finished-at="2022-02-01T15:34:13 IST" duration-ms="13632" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[anand317==>Contact is created successfull ==>pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method is-config="true" signature="ConfigAM()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:34:13 IST" name="ConfigAM" finished-at="2022-02-01T15:34:15 IST" duration-ms="1753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAM -->
+        <test-method is-config="true" signature="ConfigAC()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:34:15 IST" name="ConfigAC" finished-at="2022-02-01T15:34:15 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAC -->
+        <test-method is-config="true" signature="ConfigAS()[pri:0, instance:com.vtiger.comcast.contacttest.CreateContactsTest@76c3e77a]" started-at="2022-02-01T15:34:15 IST" name="ConfigAS" finished-at="2022-02-01T15:34:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAS -->
+      </class> <!-- com.vtiger.comcast.contacttest.CreateContactsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
